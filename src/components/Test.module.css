@@ -1,0 +1,21 @@
+.container{
+    position: absolute;
+    display: flex;
+    flex-flow: row wrap;
+    top: 1000px;
+}
+
+.vid {
+    position: absolute; 
+    height: 40vw;
+    left: 5vw;
+    width: 50vw;
+}
+.heading{
+    position: relative;
+    width: 50vw;
+    font-size: 60px;
+    margin-top: 3vw;
+    left: 45vw;
+}
+

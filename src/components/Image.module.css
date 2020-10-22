@@ -1,0 +1,23 @@
+.container{
+    position: relative;
+}
+
+.outerImage{
+    position: absolute;
+    width: 100vw;
+}
+
+.innerImage{
+    position: absolute;
+    top: 14vw;
+    left: 26vw;
+    width: 55vw;
+}
+.heading{
+    position: absolute;
+    z-index: 4;
+    font-size: 4.7vw;
+    color: blue;
+    top: 15.2vw;
+    left: 45vw;
+}
